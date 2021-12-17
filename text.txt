@@ -1,0 +1,5 @@
+
+ java is an easy language
+100
+10.5
+JAVA
